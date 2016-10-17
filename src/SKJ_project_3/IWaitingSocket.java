@@ -1,4 +1,4 @@
-package SKJ;
+package SKJ_project_3;
 
 import java.io.Closeable;
 import java.io.IOException;
